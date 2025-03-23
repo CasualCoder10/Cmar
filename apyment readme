@@ -1,0 +1,6 @@
+The Razorpay integration I provided above should work well for your CodeMarket platform. After implementing it, you'll need to:
+Sign up for a Razorpay account
+Get your API keys from the Razorpay dashboard
+Update your .env file with the keys
+Install the razorpay npm package: npm install razorpay
+Add the Razorpay checkout script to your HTML
